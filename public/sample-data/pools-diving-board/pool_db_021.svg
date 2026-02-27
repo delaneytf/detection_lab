@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#9dd9ff" />
+  <circle cx="470" cy="62" r="26" fill="#ffd25f" />
+  <rect x="20" y="142" width="260" height="120" fill="#e8d8c3" />
+  <polygon points="20,142 150,74 280,142" fill="#a65644" />
+  <rect x="64" y="182" width="58" height="80" fill="#c7ad8e" />
+  <rect x="168" y="178" width="70" height="42" fill="#9ec4df" />
+  <rect x="0" y="245" width="640" height="115" fill="#d9c2a3" />
+  <rect x="220" y="210" width="360" height="110" rx="10" fill="#4db6ff" />
+  <rect x="220" y="210" width="360" height="8" fill="#e5f7ff" opacity="0.75" />
+  <rect x="560" y="170" width="10" height="75" fill="#c5c5c5" />
+  <line x1="570" y1="170" x2="590" y2="170" stroke="#c5c5c5" stroke-width="4" />
+  
+    <rect x="500" y="208" width="22" height="36" fill="#dadada" />
+    <rect x="486" y="196" width="94" height="12" rx="4" fill="#f3f3f3" />
+    <rect x="570" y="194" width="10" height="14" rx="2" fill="#cfcfcf" />
+  <ellipse cx="360" cy="250" rx="28" ry="14" fill="#ff7e67" opacity="0.9" />
+  <rect x="396" y="196" width="6" height="52" fill="#6d4c41" />
+  <polygon points="368,196 399,170 430,196" fill="#ef5350" />
+  
+    <rect x="84" y="292" width="58" height="10" rx="2" fill="#8d6e63" />
+    <rect x="150" y="292" width="58" height="10" rx="2" fill="#8d6e63" />
+  
+    <rect x="52" y="160" width="10" height="85" fill="#7a4a2f" />
+    <ellipse cx="58" cy="150" rx="34" ry="10" fill="#4f8f3a" />
+    <ellipse cx="73" cy="136" rx="28" ry="8" fill="#4f8f3a" />
+    <ellipse cx="43" cy="136" rx="28" ry="8" fill="#4f8f3a" />
+  <ellipse cx="603" cy="234" rx="22" ry="12" fill="#4f8f3a" />
+  <ellipse cx="618" cy="220" rx="20" ry="10" fill="#4f8f3a" />
+  <text x="18" y="28" font-family="Arial, sans-serif" font-size="14" fill="#1d3557">Residential Pool Exterior</text>
+  <text x="18" y="48" font-family="Arial, sans-serif" font-size="12" fill="#1d3557">Diving board present</text>
+</svg>
